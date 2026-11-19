@@ -1,0 +1,213 @@
+[{
+  "id": 100,
+  "nombre": "La casona de Vélez",
+  "telefono": "222333666",
+  "domicilio": {
+    "calle": "Camino del pantano",
+    "numero": 3
+  },
+  "población": "Vélez Málaga",
+  "provincia": "Málaga",
+  "numHab": 5,
+  "numPax": 10,
+  "numAseos": 3,
+  "precioDiaNoDevol": 250,
+  "precioDiaNormal": 300,
+  "tasaIncrementoPax": 30.5,
+  "tipoAloja": [
+    "Rural",
+    "Casa"
+  ]
+},
+{
+  "id": 101,
+  "nombre": "El retiro de Félix",
+  "telefono": "123987456",
+  "domicilio": {
+    "calle": "Laurel",
+    "numero": 25
+  },
+  "población": "Félix",
+  "provincia": "Almería",
+  "numHab": 3,
+  "numPax": 8,
+  "numAseos": 2,
+  "precioDiaNoDevol": 180,
+  "precioDiaNormal": 250,
+  "tasaIncrementoPax": 10,
+  "tipoAloja": [
+    "Casa",
+    "Urbano"
+  ]
+},
+{
+  "id": 102,
+  "nombre": "Apartamento Paraiso",
+  "telefono": "300200100",
+  "domicilio": {
+    "calle": "Doctor Fleming",
+    "numero": 105
+  },
+  "población": "Córdoba",
+  "provincia": "Córdoba",
+  "numHab": 2,
+  "numPax": 5,
+  "numAseos": 2,
+  "precioDiaNoDevol": 150,
+  "precioDiaNormal": 200,
+  "tasaIncrementoPax": 5.5,
+  "tipoAloja": [
+    "Urbano",
+    "Piso"
+  ]
+},
+{
+  "id": 103,
+  "nombre": "La morada de Juan",
+  "telefono": "101202303",
+  "domicilio": {
+    "calle": "Carretera de Lepe",
+    "numero": 101
+  },
+  "población": "Lepe",
+  "provincia": "Huelva",
+  "numHab": 2,
+  "numPax": 4,
+  "numAseos": 1,
+  "precioDiaNoDevol": 85,
+  "precioDiaNormal": 120,
+  "tasaIncrementoPax": 12.75,
+  "tipoAloja": [
+    "Rural",
+    "Piso"
+  ]
+},
+{
+  "id": 104,
+  "nombre": "SweetWater",
+  "telefono": "147258369",
+  "domicilio": {
+    "calle": "Avenida Carlos III",
+    "numero": 199
+  },
+  "población": "Aguadulce",
+  "provincia": "Almería",
+  "numHab": 3,
+  "numPax": 8,
+  "numAseos": 2,
+  "precioDiaNoDevol": 100,
+  "precioDiaNormal": 160,
+  "tasaIncrementoPax": 20,
+  "tipoAloja": [
+    "Urbano",
+    "Casa"
+  ]
+},
+{
+  "id": 105,
+  "nombre": "Las Salinas del Mar",
+  "telefono": "200600800",
+  "domicilio": {
+    "calle": "Camino del Cole",
+    "numero": 10
+  },
+  "población": "Roquetas de Mar",
+  "provincia": "Almería",
+  "numHab": 5,
+  "numPax": 12,
+  "numAseos": 4,
+  "precioDiaNoDevol": 125,
+  "precioDiaNormal": 200,
+  "tasaIncrementoPax": 5.5,
+  "tipoAloja": [
+    "Urbano",
+    "Casa",
+    "Montaña"
+  ]
+},
+{
+  "id": 106,
+  "nombre": "Paraíso Blanco",
+  "telefono": "963852741",
+  "domicilio": {
+    "calle": "Índalo",
+    "numero": 1
+  },
+  "población": "Vélez Blanco",
+  "provincia": "Almería",
+  "numHab": 4,
+  "numPax": 8,
+  "numAseos": 3,
+  "precioDiaNoDevol": 90,
+  "precioDiaNormal": 150,
+  "tasaIncrementoPax": 3.5,
+  "tipoAloja": [
+    "Rural",
+    "Casa",
+    "Montaña"
+  ]
+},
+{
+  "id": 107,
+  "nombre": "Mi casita",
+  "telefono": "111000222",
+  "domicilio": {
+    "calle": "Corta",
+    "numero": 14
+  },
+  "población": "Lucena",
+  "provincia": "Córdoba",
+  "numHab": 2,
+  "numPax": 4,
+  "numAseos": 1,
+  "precioDiaNoDevol": 55,
+  "precioDiaNormal": 100,
+  "tasaIncrementoPax": 3.5,
+  "tipoAloja": [
+    "Urbano",
+    "Piso"
+  ]
+},
+{
+  "id": 108,
+  "nombre": "La posada de Mario",
+  "telefono": "100200500",
+  "domicilio": {
+    "calle": "Gran Carretera",
+    "numero": 10
+  },
+  "población": "Fuengirola",
+  "provincia": "Málaga",
+  "numHab": 1,
+  "numPax": 2,
+  "numAseos": 1,
+  "precioDiaNoDevol": 45,
+  "precioDiaNormal": 80,
+  "tasaIncrementoPax": 1.5,
+  "tipoAloja": [
+    "Urbano",
+    "Piso"
+  ]
+},
+{
+  "id": 109,
+  "nombre": "El rincón de Teo",
+  "telefono": "123987456",
+  "domicilio": {
+    "calle": "Cuesta",
+    "numero": 1
+  },
+  "población": "Málaga",
+  "provincia": "Málaga",
+  "numHab": 1,
+  "numPax": 2,
+  "numAseos": 1,
+  "precioDiaNoDevol": 55,
+  "precioDiaNormal": 100,
+  "tasaIncrementoPax": 4.5,
+  "tipoAloja": [
+    "Rural",
+    "Piso"
+  ]
+}
+]
